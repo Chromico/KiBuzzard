@@ -32,7 +32,7 @@ Ensure you also get the submodules with KiBuzzard
 
 ```console
 $ cd ~/.kicad/scripting/plugins
-$ git clone https://github.com/Chromico/KiBuzzard.git --recursive
+$ git clone https://github.com/VedantParanjape/KiBuzzard.git --recursive
 $ pip3 install -r requirements.txt --user
 ```
 
